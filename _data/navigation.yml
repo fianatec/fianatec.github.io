@@ -1,0 +1,19 @@
+- name: Home
+  link: /
+- name: Carts
+  link: /carts.html
+- name: Parts
+  link: /parts.html
+- name: Specification
+  link: /spec.html
+- name: Dealer
+  link: /dealer.html
+- name: Inventory
+  link: /inventory.html
+- name: Blog
+  link: /blog.html
+- name: About
+  link: /about.html
+- name: Contact
+  link: /contact.html
+  
