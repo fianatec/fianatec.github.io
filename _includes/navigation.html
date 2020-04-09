@@ -3,41 +3,31 @@
 		<div class="wp">
 			<ul class="l topul">
 				<li class="topli1">
-					<span>+86 512 62605688</span></li>
+					<span>+1 789 6543210</span></li>
 				<li class="topli2">
-					<a href="mailto:export@eg-ev.com">export@eg-ev.com</a></li>
+					<a href="mailto:support@fianatec.com">support@fianatec.com</a></li>
 			</ul>
 			<div class="searchyy r">
 				<div class="search l">
 					<form action="/index.php/Search/Index/index.html" method="post">
 						<input type="text" name="q" class="sou" placeholder="Search">
 						<input type="submit" class="suo" value=" "></form>
-				</div>
-				<div class="yy l">
-					<a>EN</a>
-					<!-- <ul class="yylist">
-						<li>
-							<a href="" target="_blank" rel="nofollow">aaa</a></li>
-						<li>
-							<a href="" target="_blank" rel="nofollow">bbb</a></li>
-					</ul> -->
-				</div>
-				<div class="clear"></div>
-			</div>
-			<div class="clear"></div>
+				</div>			
+			</div>			
 		</div>
 	</header>
-	<nav class="nav">
-	<!--div class="container">
-		<div class="nav"-->
+
+	<div class="container">
+		<!--div class="nav"-->
+		<nav class="nav">
 			<!--ul class="fix"-->
 			{% for item in site.data.navigation %}
 			<!--li-->
 			<a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
 			<!--/li-->
 			{% endfor %}
-			<!--/ul>
-		</div>
-	</div-->	
-	</nav>
+		</nav>
+			<!--/ul-->
+		<!--/div-->
+	</div>	
 </div>	
