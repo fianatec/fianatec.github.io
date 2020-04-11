@@ -11,3 +11,13 @@
     padding: 4px;  
     float: center;
 }
+
+.nav > a:link, a:visited {   
+  color: teal;
+  text-decoration: none;
+  cursor: auto;
+}
+
+.nav > a:link:active, a:visited:active {
+  color: brown;
+}
