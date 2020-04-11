@@ -2,6 +2,38 @@
   color: green;
 }
 
+nav {
+    background: #ffcccc;
+    border-bottom: 2px solid #b4b4b4;
+    position: relative;
+}
+
+.navlist > li {
+    float: left;
+    font-family: 'Arial';
+    font-size: 16px;
+    font-size: 16rem;
+    position: relative;
+    z-index: 99
+}
+
+    .navlist > li > a {
+        color: #fff;
+        text-transform: uppercase;
+        display: block;
+        padding: 10px;
+        line-height: 80px;
+    }
+
+    .navlist > li:hover > a {
+        background: #fdf9e9 url("../images/navbg.png") no-repeat center bottom;
+        color: #e8be1d;
+    }
+
+.navlist1 > li {
+    margin-right: 25px;
+}
+
 @charset "utf-8"; /* CSS Document */
 html {
     font-size: 62.5%;
@@ -253,37 +285,6 @@ header {
     top: 20px;
 }
 
-nav {
-    background: #e8be1d;
-    border-bottom: 2px solid #b4b4b4;
-    position: relative;
-}
-
-.navlist > li {
-    float: left;
-    font-family: 'OpenSansBold';
-    font-size: 16px;
-    font-size: 1.6rem;
-    position: relative;
-    z-index: 99
-}
-
-    .navlist > li > a {
-        color: #fff;
-        text-transform: uppercase;
-        display: block;
-        padding: 0 10px;
-        line-height: 80px;
-    }
-
-    .navlist > li:hover > a {
-        background: #fdf9e9 url("../images/navbg.png") no-repeat center bottom;
-        color: #e8be1d;
-    }
-
-.navlist1 > li {
-    margin-right: 25px;
-}
 
 .logo {
     position: absolute;
