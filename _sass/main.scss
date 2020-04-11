@@ -14,10 +14,11 @@
 
 .nav > a:link, a:visited {   
   color: teal;
-  text-decoration: none;
+  text-decoration-line: none;
   cursor: auto;
 }
 
 .nav > a:link:active, a:visited:active {
   color: brown;
+  text-decoration-line: none;
 }
