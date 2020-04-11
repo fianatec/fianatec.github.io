@@ -7,27 +7,11 @@
 				<li class="topli2">
 					<a href="mailto:support@fianatec.com">support@fianatec.com</a></li>
 			</ul>
-			<div class="searchyy r">
-				<div class="search l">
-					<form action="/index.php/Search/Index/index.html" method="post">
-						<input type="text" name="q" class="sou" placeholder="Search">
-						<input type="submit" class="suo" value=" "></form>
-				</div>			
-			</div>			
 		</div>
 	</header>
-
-	<div class="container">
-		<!--div class="nav"-->
-		<nav class="nav">
-			<!--ul class="fix"-->
-			{% for item in site.data.navigation %}
-			<!--li-->
+	<nav class="nav">
+		{% for item in site.data.navigation %}
 			<a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
-			<!--/li-->
-			{% endfor %}
-		</nav>
-			<!--/ul-->
-		<!--/div-->
-	</div>	
+		{% endfor %}
+	</nav>
 </div>	
