@@ -4,11 +4,6 @@ title: FianaTec
 ---
 # Welcome to FianaTec
 
-<img src="assets/images/Pear.jpg" alt="Pear" height="200" width="200">
-<img src="assets/images/Peach.jpg" alt="Peach" height="200" width="200">
-<img src="assets/images/Cherry.jpg" alt="Cherry" height="200" width="200">
-<img src="assets/images/Nectrine.jpg" alt="Nectrine" height="200" width="200">
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
