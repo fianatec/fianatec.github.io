@@ -4,9 +4,10 @@ title: FianaTec
 ---
 # Welcome to FianaTec
 
-You can use the [editor on GitHub](https://github.com/fianatec/fianatec.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="assets/images/Pear.jpg" alt="Pear" height="42" width="42">
+<img src="assets/images/Peach.jpg" alt="Peach" height="42" width="42">
+<img src="assets/images/Cherry.jpg" alt="Cherry" height="42" width="42">
+<img src="assets/images/Nectrine.jpg" alt="Nectrine" height="42" width="42">
 
 ### Markdown
 
