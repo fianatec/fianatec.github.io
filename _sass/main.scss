@@ -2,10 +2,12 @@
   color: green;
 }
 
-nav {
+.nav {
     background: #ffcccc;
     border-bottom: 2px solid #b4b4b4;
     position: relative;
+    font-size: 16px;
+    padding: 20px;
 }
 
 .navlist > li {
