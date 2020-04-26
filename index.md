@@ -31,7 +31,9 @@ title: FianaTec
 	</ul>
 </div>
 
+<div align="center">
 ### Welcome to FianaTec
+</div>
 
 <div class="container">
 	<div class="section">
