@@ -105,22 +105,17 @@ On the roads it was a white-line nightmare. Only those mobile enough to scavenge
 	</div>
 	<div class="row">
 		<div class="col s5">
-			<a href="http://www.wolfram.com/"><img class="logo img-responsive" src="images/wolfram.png"
-					alt="Wolfram"></a></div>
+			<img class="logo img-responsive" src="/assets/images/C1.jpg"/>
+		</div>
 		<div class="col s5 offset-s2">
-			<a href="http://www.artofproblemsolving.com/"><img class="logo img-responsive" src="images/aops.png"
-					alt="Art of Problem Solving"></a>
+			<img class="logo img-responsive" src="/assets/images/P1.jpg"/>					
 		</div>
 	</div>
 	<div class="row">
-		<div class="col s5">
-			<a href="http://education.ti.com/"><img class="logo img-responsive"
-					src="images/texas-instruments.png" alt="TI"></a></div>
+		<div class="col s5"><img class="logo img-responsive" src="/assets/images/N1.jpg"/></div>
 		<div class="col s5 offset-s2">
-			<a href="https://daily.poshenloh.com/"><img class="logo img-responsive" src="images/dailychallenge.png"
-					alt="Daily Challenge"></a>
+			<img class="logo img-responsive" src="/assets/images/PE1.jpg"/>
 		</div>
-	</div>
 	<div class="row">
 		<div class="col s5" style="text-align: center">
 			<h5>EV 2+2</h5>
