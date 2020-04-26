@@ -101,27 +101,19 @@ On the roads it was a white-line nightmare. Only those mobile enough to scavenge
 
 <div class="container">
 	<div class="col s12" style="text-align: center">
-		<h3>Sponsors</h3>
+		<h3>Solo</h3>
 	</div>
 	<div class="row">
 		<div class="col s5">
-			<img class="logo img-responsive" src="/assets/images/C1.jpg"/>
+			<img class="logo img-responsive" src="/assets/images/C1.jpg" width="20" height="20"/>
 		</div>
 		<div class="col s5 offset-s2">
-			<img class="logo img-responsive" src="/assets/images/P1.jpg"/>					
+			<img class="logo img-responsive" src="/assets/images/P1.jpg"  width="20" height="20"/>					
 		</div>
 	</div>
 	<div class="row">
-		<div class="col s5"><img class="logo img-responsive" src="/assets/images/N1.jpg"/></div>
+		<div class="col s5"><img class="logo img-responsive" src="/assets/images/N1.jpg"  width="20" height="20"/></div>
 		<div class="col s5 offset-s2">
-			<img class="logo img-responsive" src="/assets/images/PE1.jpg"/>
+			<img class="logo img-responsive" src="/assets/images/PE1.jpg"  width="20" height="20"/>
 		</div>
-	<div class="row">
-		<div class="col s5" style="text-align: center">
-			<h5>EV 2+2</h5>
-		</div>
-		<div class="col s5 offset-s2" style="text-align: center">
-			<h5>EV 4+2</h5>
-		</div>
-	</div>
 </div>
