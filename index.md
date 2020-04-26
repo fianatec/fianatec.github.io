@@ -32,7 +32,7 @@ title: FianaTec
 </div>
 
 <div align="center">
-### Welcome to FianaTec
+<h3> Welcome to FianaTec</h3>
 </div>
 
 <div class="container">
