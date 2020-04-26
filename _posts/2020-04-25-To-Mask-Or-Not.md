@@ -3,7 +3,6 @@ layout: post
 author: dan
 ---
 <h6>
-<pre>
 ﻿To mask, or not to mask, that is the question:
 Whether 'tis nobler in the mind to suffer
 The venal scowl of fellow supermarket shoppers,
@@ -38,5 +37,4 @@ Is sicklied o'er with the pale cast of psychosis,
 And enterprises of bat-shiat hysterical freaking out,
 Stay at Home! (Unless you need to go out),
 And forever lost - that best shave money could buy.
-</pre>
 </h6>
