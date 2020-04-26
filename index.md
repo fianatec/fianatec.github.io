@@ -115,10 +115,10 @@ On the roads it was a white-line nightmare. Only those mobile enough to scavenge
 	<div class="row">
 		<div class="col s5">
 			<a href="http://education.ti.com/"><img class="logo img-responsive"
-					src="images/texas-instruments.png" alt="Wolfram"></a></div>
+					src="images/texas-instruments.png" alt="TI"></a></div>
 		<div class="col s5 offset-s2">
 			<a href="https://daily.poshenloh.com/"><img class="logo img-responsive" src="images/dailychallenge.png"
-					alt="Daily Challenge with Po-Shen Loh"></a>
+					alt="Daily Challenge"></a>
 		</div>
 	</div>
 	<div class="row">
