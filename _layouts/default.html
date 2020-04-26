@@ -1,42 +1,24 @@
 <!doctype html>
 <html>
   <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{{ page.title }}</title>
+
+    <!-- CSS  -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="/assets/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection" />
+    <link href="/assets/css/style.css" type="text/css" rel="stylesheet" media="screen,projection" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+ <!--   
     <link rel="stylesheet" href="/assets/css/styles.css">
-	<script src="/assets/js/ImgSlider.js"></script>
+	<script src="/assets/js/ImgSlider.js"></script> -->
   </head>
   <body>
     {% include navigation.html %}
 	
-	<!--div class="slideshow-container">
-	<br/><br/>
-		<div class="mySlides fade">
-		<img src="/assets/images/Pear.jpg"  style="width:100%"/>
-		</div>
-		<div class="mySlides fade">
-		<img src="/assets/images/Peach.jpg"  style="width:100%"/>
-		</div>
-		<div class="mySlides fade">
-		<img src="/assets/images/Cherry.jpg"  style="width:100%"/>
-		</div>
-		<div class="mySlides fade">
-		<img src="/assets/images/Nectrine.jpg"  style="width:100%"/>
-		</div>
-		<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-		<a class="next" onclick="plusSlides(1)">&#10095;</a>
-	</div>
-	<br>
-	<div style="text-align:center">
-	  <span class="dot" onclick="currentSlide(1)"></span> 
-	  <span class="dot" onclick="currentSlide(2)"></span> 
-	  <span class="dot" onclick="currentSlide(3)"></span> 
-	  <span class="dot" onclick="currentSlide(4)"></span> 
-	</div>
-	<br/>
-	<div>	
-	<br/><br/-->
     {{ content }}
-	<div>
+	
   </body>
 </html>
