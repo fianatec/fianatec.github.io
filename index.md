@@ -84,7 +84,7 @@ Be all my sins remember'd!”</p>
 			</div>
 			<div class="col s12 m6">
 				<div class="icon-block">
-					<a href="/archive"><h2 class="center brown-text"><i class="material-icons">Contacts</i></h2></a>
+					<a href="https://fianatec.github.io/about.html"><h2 class="center brown-text"><i class="material-icons">Contacts</i></h2></a>
 					<h5 class="center">Who are we</h5>					
 					<p  class="light">
 						“My life fades. The vision dims. All that remains are memories. I remember a time of chaos. Ruined dreams. This wasted land. But most of all, I remember the Road Warrior. The man we called “Max”.
