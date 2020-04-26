@@ -12,7 +12,7 @@
             </div>
 		</nav>
     </div>
-    <ul class="sidenav" id="nav-mobile" style="transform: translateX(0%);">
+    <ul class="sidenav" id="nav-mobile" > <!--style="transform: translateX(0%);"-->
 		{% for item in site.data.navigation %}
 			<li><a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
 		{% endfor %}
