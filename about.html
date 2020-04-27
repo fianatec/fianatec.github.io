@@ -2,15 +2,15 @@
 layout: default
 title: About Us
 ---
-<h4>About FianaTec</h4>
+<h4>FianaTec Cohort</h4>
 
-<h5>Staff</h5>
+<h5>Who are we</h5>
 
 <ul>
   {% for author in site.authors %}
     <li>
-      <h4><a href="{{ author.url }}">{{ author.name }}</a></h4>
-      <h5>{{ author.position }}</h5>
+      <h5><a href="{{ author.url }}">{{ author.name }}</a></h5>
+      <h6>{{ author.position }}</h6>
       <p>{{ author.content | markdownify }}</p>
     </li>
   {% endfor %}
