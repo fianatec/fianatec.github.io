@@ -105,15 +105,15 @@ On the roads it was a white-line nightmare. Only those mobile enough to scavenge
 	</div>
 	<div class="row">
 		<div class="col s5">
-			<img class="logo img-responsive" src="/assets/images/C1.jpg" width="20" height="20"/>
+			<img class="logo img-responsive" src="/assets/images/C1.jpg" width="80" height="80"/>
 		</div>
 		<div class="col s5 offset-s2">
-			<img class="logo img-responsive" src="/assets/images/P1.jpg"  width="20" height="20"/>					
+			<img class="logo img-responsive" src="/assets/images/P1.jpg"  width="80" height="80"/>					
 		</div>
 	</div>
 	<div class="row">
-		<div class="col s5"><img class="logo img-responsive" src="/assets/images/N1.jpg"  width="20" height="20"/></div>
+		<div class="col s5"><img class="logo img-responsive" src="/assets/images/N1.jpg"  width="80" height="80"/></div>
 		<div class="col s5 offset-s2">
-			<img class="logo img-responsive" src="/assets/images/PE1.jpg"  width="20" height="20"/>
+			<img class="logo img-responsive" src="/assets/images/PE1.jpg"  width="80" height="80"/>
 		</div>
 </div>
