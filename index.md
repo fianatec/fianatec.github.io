@@ -36,20 +36,6 @@ title: FianaTec
 </div>
 
 <div class="container">
-	<div class="col s12" style="text-align: center">
-		<h3>Solo</h3>
-	</div>
-	<div class="row">
-		<div class="col s12 m6">
-			<a href="https://fianatec.github.io/trading_data.html"><h5 class="center">Down Load 5 Min SPY Data</h5></a>				
-		</div>
-		<div class="col s5 offset-s2">
-			<a href="https://fianatec.github.io/trading_data.html"><h5 class="center">Down Load 1 Min SPY Data</h5></a>				
-		</div>
-	</div>
-</div>
-
-<div class="container">
 	<div class="section">
 
 		<!--   Icon Section   -->
