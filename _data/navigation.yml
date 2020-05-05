@@ -1,11 +1,10 @@
 - name: Home
   link: /
-  name: Trading
-  link: /trading_data.html
+ - name: Trading
+  link: /trading.html
 - name: Blog
   link: /blog.html
 - name: About
   link: /about.html
 - name: Contact
   link: /contact.html
-  
