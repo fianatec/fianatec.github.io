@@ -1,7 +1,5 @@
 - name: Home
   link: /
- - name: Trading
-  link: /trading.html
 - name: Blog
   link: /blog.html
 - name: About
