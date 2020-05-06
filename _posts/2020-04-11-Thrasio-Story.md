@@ -2,10 +2,14 @@
 layout: post
 author: mar
 ---
-So what does Thrasio actually do? 
+So what does Thrasio actually do? </br>
+It’s pretty simple really. </br>
+It finds the “top-reviewed, bestselling” essential everyday products on Amazon, </br>
+and buys the brands from the small business owners. </br>
+Many of those (usually seven-figure) businesses have grown faster than the owners have expected, </br>
+according to Silberstein.
 
 <p/>
-It’s pretty simple really. It finds the “top-reviewed, bestselling” essential everyday products on Amazon, and buys the brands from the small business owners. Many of those (usually seven-figure) businesses have grown faster than the owners have expected, according to Silberstein.
 
 “These kinds of businesses are easy to get started but when they succeed, they become harder to manage over time,” he told Crunchbase News. “We’re able to come in and give them a terrific outcome for something they’ve built they might not have had otherwise.”
 
