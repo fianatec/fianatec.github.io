@@ -11,7 +11,7 @@ This wasted land. <br/>
 But most of all, I remember the Costco Warrior.<br/> 
 The man we called “Dan”.<br/>
 
-</p>
+<p/>
 To understand who he was, you have to go back to another time.<br/> 
 When the world reached for the white paper. <br/>
 And the suburbs sprouted great wholesale warehouses filled with rotisserie roast chickens and palettes of 1000 sheet Charmin UltraSoft. <br/>
@@ -25,7 +25,7 @@ But nothing could stem the flooded cesspool tsunami.<br/>
  A whirlwind of senior only lines, home-made facemasks, and “one sheet per” visits. <br/>
  A firestorm of fear. Men began to feed on men (takeout only).
 
-</p>
+<p/>
 On the roads it was a bare cardboard tube nightmare. <br/>
 Only those mobile enough to scavenge, brave enough to break curfew could hope to keep fresh. <br/>
 The gangs took over the highways, ready to wage war for a damaged roll of janitorial 2-ply. <br/>
