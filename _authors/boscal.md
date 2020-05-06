@@ -1,6 +1,6 @@
 ---
 short_name: boscal
 name: Boston Calurus
-position: Real World Writer
+position: Roamer
 ---
-Boston looks at the real world, finds place to live, love and play.
+Boston roams around the real world, settles at whatever place, to live, love and play.
