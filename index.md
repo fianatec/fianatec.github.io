@@ -101,7 +101,7 @@ On the roads it was a white-line nightmare. Only those mobile enough to scavenge
 
 <div class="container">
 	<div class="col s12" style="text-align: center">
-		<h3>Solo</h3>
+		<h3>A</h3>
 	</div>
 	<div class="row">
 		<div class="col s5">
