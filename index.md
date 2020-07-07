@@ -31,31 +31,31 @@ title: Elysian Vehicle Paradise
 		</li>
 -->		
 				<li>
-			<img src="/assets/images/sz2seats.jpg"  style="height: 100%;">
+			<img src="/assets/images/sz2seats.jpg"  style="width: 100%;">
 			<div class="caption center-align">
 				<h5>2 seat cart</h5>
 			</div>
 		</li>
 		<li>
-			<img src="/assets/images/sz4seats.jpg" style="height: 100%;">
+			<img src="/assets/images/sz4seats.jpg" style="width: 100%;">
 			<div class="caption left-align">
 				<h5>4 seat cart</h5>			
 			</div>
 		</li>
 		<li>
-			<img src="/assets/images/sz6seats.jpg" style="height: 100%;">
+			<img src="/assets/images/sz6seats.jpg" style="width: 100%;">
 			<div class="caption left-align">
 				<h5>6 seat cart</h5>			
 			</div>
 		</li>
 		<li>
-			<img src="/assets/images/sz_handicapped.jpg" style="height: 100%;">
+			<img src="/assets/images/sz_handicapped.jpg" style="width: 100%;">
 			<div class="caption left-align">
 				<h5>Accessible cart</h5>			
 			</div>
 		</li>
 		<li>
-			<img src="/assets/images/sz_airport_tractor.jpg" style="height: 100%;">
+			<img src="/assets/images/sz_airport_tractor.jpg" style="width: 100%;">
 			<div class="caption left-align">
 				<h5>Airport Shuttle & Tractor</h5>			
 			</div>
