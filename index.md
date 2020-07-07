@@ -54,6 +54,12 @@ title: FianaTec
 				<h5>Accessible cart</h5>			
 			</div>
 		</li>
+		<li>
+			<img src="/assets/images/sz_airport_tractor.jpg">
+			<div class="caption left-align">
+				<h5>Airport Shuttle & Tractor</h5>			
+			</div>
+		</li>
 	</ul>
 </div>
 
