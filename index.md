@@ -74,7 +74,7 @@ title: Elysian Vehicle Paradise
 		<div class="row">
 			<div class="col s12 m6">
 				<div class="icon-block">
-					<a href="https://fianatec.github.io/blog.html"><h3 class="center brown-text"><i class="material-icons">Blogs</i></h3></a>
+					<a href="https://fianatec.github.io/blog.html"><h3 class="center brown-text"><i class="material-icons">Products</i></h3></a>
 					<h5 class="center">Products</h5>
 
 					<p class="light">
@@ -87,7 +87,7 @@ title: Elysian Vehicle Paradise
 			</div>
 			<div class="col s12 m6">
 				<div class="icon-block">
-					<a href="https://fianatec.github.io/about.html"><h2 class="center brown-text"><i class="material-icons">Contacts</i></h2></a>
+					<a href="https://fianatec.github.io/about.html"><h2 class="center brown-text"><i class="material-icons">Special</i></h2></a>
 					<h5 class="center">Special Vehicles</h5>					
 					<p  class="light">
 					<ul>						
