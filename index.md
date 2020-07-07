@@ -48,6 +48,12 @@ title: FianaTec
 				<h5>6 seat cart</h5>			
 			</div>
 		</li>
+		<li>
+			<img src="/assets/images/sz_handicapped.jpg">
+			<div class="caption left-align">
+				<h5>Accessible cart</h5>			
+			</div>
+		</li>
 	</ul>
 </div>
 
