@@ -2,6 +2,10 @@
   link: /
 - name: Products
   link: /carts.html
+- name: Dealers
+  link: /dealer.html
+- name: Parts
+  link: /parts.html
 - name: About
   link: /about.html
 - name: Blog
