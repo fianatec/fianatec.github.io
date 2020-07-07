@@ -28,6 +28,24 @@ title: FianaTec
 				<h5>Nectarine</h5>			
 			</div>
 		</li>
+				<li>
+			<img src="/assets/images/sz2seats.jpg">
+			<div class="caption center-align">
+				<h5>2 seat cart</h5>
+			</div>
+		</li>
+		<li>
+			<img src="/assets/images/sz4seats.jpg">
+			<div class="caption left-align">
+				<h5>4 seat cart</h5>			
+			</div>
+		</li>
+		<li>
+			<img src="/assets/images/sz6seats.jpg">
+			<div class="caption left-align">
+				<h5>6 seat cart</h5>			
+			</div>
+		</li>
 	</ul>
 </div>
 
