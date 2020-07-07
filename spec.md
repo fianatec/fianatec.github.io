@@ -1,5 +1,5 @@
 ---
 layout: default
-title: About Us
+title: Elysian Technical Specs
 ---
-# About FianaTec
+# About Elysian

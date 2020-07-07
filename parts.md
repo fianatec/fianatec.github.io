@@ -1,5 +1,5 @@
 ---
 layout: default
-title: About Us
+title: Elysian Parts
 ---
-# About FianaTec
+# About Elysian Parts

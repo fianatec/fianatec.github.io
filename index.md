@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FianaTec
+title: Elysian Vehicle Paradise
 ---
 <div class="slider">
 	<ul class="slides">

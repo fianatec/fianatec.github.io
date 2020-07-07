@@ -1,5 +1,5 @@
 ---
 layout: default
-title: About Us
+title: Dealers of Elysian
 ---
-# About FianaTec
+# About Elysian

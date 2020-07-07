@@ -1,7 +1,7 @@
 ---
 layout: default
-title: FianaTec
+title: Elysian
 ---
-#### Welcome to FianaTec
+#### Welcome to Elysian
 
 <div class="slider" style="height: 200px;"/>

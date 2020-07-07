@@ -1,5 +1,5 @@
 ---
 layout: default
-title: About Us
+title: Elysian Inventory
 ---
-# About FianaTec
+# About Elysian
