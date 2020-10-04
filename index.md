@@ -4,48 +4,22 @@ title: Elysian Vehicle Paradise
 ---
 <div class="slider">
 	<ul class="slides">
-<!--	
 		<li>
-			<img src="/assets/images/Cherry.jpg">
+			<img src="/assets/images/long_eagleOnGreen.jpg"  style="width: 100%;">
 			<div class="caption center-align">
-				<h5>Cherry</h5>
+				<h5>Eagle Electric Carts</h5>
 			</div>
 		</li>
 		<li>
-			<img src="/assets/images/Peach.jpg">
+			<img src="/assets/images/long_20x8k.jpg" style="width: 100%;">
 			<div class="caption left-align">
-				<h5>Peach</h5>			
+				<h5>2/4/6 Seater People Movers</h5>			
 			</div>
 		</li>
 		<li>
-			<img src="/assets/images/Pear.jpg">
+			<img src="/assets/images/long_heavyUtil.jpg" style="width: 100%;">
 			<div class="caption left-align">
-				<h5>Pear</h5>			
-			</div>
-		</li>
-		<li>
-			<img src="/assets/images/Nectrine.jpg">
-			<div class="caption left-align">
-				<h5>Nectarine</h5>			
-			</div>
-		</li>
--->		
-				<li>
-			<img src="/assets/images/sz2seats.jpg"  style="width: 100%;">
-			<div class="caption center-align">
-				<h5>2 seat cart</h5>
-			</div>
-		</li>
-		<li>
-			<img src="/assets/images/sz4seats.jpg" style="width: 100%;">
-			<div class="caption left-align">
-				<h5>4 seat cart</h5>			
-			</div>
-		</li>
-		<li>
-			<img src="/assets/images/sz6seats.jpg" style="width: 100%;">
-			<div class="caption left-align">
-				<h5>6 seat cart</h5>			
+				<h5>Heavy Duty Vehicles</h5>			
 			</div>
 		</li>
 		<li>
@@ -64,7 +38,7 @@ title: Elysian Vehicle Paradise
 </div>
 
 <div align="center">
-<h3> Welcome to Elysian Vehicle Paradise </h3>
+<h3> Welcome to Eagle Vehicle Mart </h3>
 </div>
 
 <div class="container">
@@ -80,19 +54,20 @@ title: Elysian Vehicle Paradise
 					<p class="light">
 					<ul>
 						<li>Hunting Buggy</li><li>Golf Carts</li><li>People Mover</li><li>Utility Vehicle</li><li>Shuttle Bus</li>
-						<li>Patrol Car</li><li>Personal Carrier</li><li>Industrial Vehicle</li><li>Street Legal Vehicles</li>						
+						<li>Patrol Car</li><li>Personal Carrier</li><li>Industrial Vehicle</li><li>Street Legal Vehicles</li>
+						<li>Special Purpose Vehicles</li>						
 					</ul>
 					</p>
 				</div>
 			</div>
 			<div class="col s12 m6">
 				<div class="icon-block">
-					<a href="https://fianatec.github.io/about.html"><h2 class="center brown-text"><i class="material-icons">Special</i></h2></a>
-					<h5 class="center">Special Vehicles</h5>					
+					<a href="https://fianatec.github.io/about.html"><h2 class="center brown-text"><i class="material-icons">Services</i></h2></a>
+					<h5 class="center">Parts & Services</h5>					
 					<p  class="light">
 					<ul>						
-						<li>Patrol Car</li><li>Personal Carrier</li><li>Industrial Vehicle</li><li>Street Legal Vehicles</li>
-						<li>Hotel Car</li><li>Ambulance</li><li>Wheelchair Accessible</li>
+						<li>Parts</li><li>Personal Carrier</li><li>Industrial Vehicle</li><li>Street Legal Vehicles</li>
+						<li>Services</li><li>Battery</li><li>Motor</li>
 					</ul>
 					</p>
 				</div>
@@ -103,7 +78,7 @@ title: Elysian Vehicle Paradise
 
 <div class="container">
 	<div class="col s12" style="text-align: center">
-		<h3>A</h3>
+		<h3>Serve Your Life</h3>
 	</div>
 	<div class="row">
 		<div class="col s5">
