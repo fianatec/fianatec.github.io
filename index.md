@@ -5,6 +5,18 @@ title: Elysian Vehicle Paradise
 <div class="slider">
 	<ul class="slides">
 		<li>
+			<img src="/assets/images/sz2seats.jpg"  style="width: 100%;">
+			<div class="caption center-align">
+				<h5>Eagle Golf Carts For Two</h5>
+			</div>
+		</li>
+		<li>
+			<img src="/assets/images/sz4seats.jpg"  style="width: 100%;">
+			<div class="caption center-align">
+				<h5>Eagle Golf Carts For Four</h5>
+			</div>
+		</li>
+		<li>
 			<img src="/assets/images/long_eagleOnGreen.jpg"  style="width: 100%;">
 			<div class="caption center-align">
 				<h5>Eagle Electric Carts</h5>
@@ -20,6 +32,12 @@ title: Elysian Vehicle Paradise
 			<img src="/assets/images/long_heavyUtil.jpg" style="width: 100%;">
 			<div class="caption left-align">
 				<h5>Heavy Duty Vehicles</h5>			
+			</div>
+		</li>
+		<li>
+			<img src="/assets/images/long_golfMover.jpg" style="width: 100%;">
+			<div class="caption left-align">
+				<h5>Eagle Golf Carts For More</h5>			
 			</div>
 		</li>
 		<li>
